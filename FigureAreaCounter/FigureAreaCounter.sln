@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureAreaCounter", "FigureAreaCounter\FigureAreaCounter.csproj", "{E8D03BA8-891F-468F-8614-93FB80909E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCounterTests", "AreaCounterTests\AreaCounterTests.csproj", "{8446043F-CF20-4D20-9123-D16E57BEF406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D03BA8-891F-468F-8614-93FB80909E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D03BA8-891F-468F-8614-93FB80909E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D03BA8-891F-468F-8614-93FB80909E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D03BA8-891F-468F-8614-93FB80909E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8446043F-CF20-4D20-9123-D16E57BEF406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8446043F-CF20-4D20-9123-D16E57BEF406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8446043F-CF20-4D20-9123-D16E57BEF406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8446043F-CF20-4D20-9123-D16E57BEF406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F612732-4D44-43A4-9263-E358E1106176}
+	EndGlobalSection
+EndGlobal
